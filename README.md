@@ -121,8 +121,7 @@ En el siguiente video se puede ver el funcionamiento del programa que ha realiza
 https://youtu.be/7AFtAWkLoKM
 
 y lo podés probar aquí: 
-https://noeliaorsini.github.io/TABLAS-DE-MULTIPLICAR/
-
+https://noeliaorsini.github.io/tablas-de-multiplicar/
 
 ## Agradecimientos
 
